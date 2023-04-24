@@ -1,0 +1,78 @@
+body {
+    background: #EBF4FE;
+}
+
+/* menu */
+.menu img {
+    height: 40px;
+}
+
+.nav-items {
+    padding-left: 80px;
+}
+
+.nav-item {
+    padding: 0 15px;
+    line-height: 40px;
+    font-weight: bold;
+}
+
+.nav .button {
+    margin-left: 0px 10px;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.course .card {
+    border-radius: 15px;
+}
+
+.course .card-img-top {
+    border-radius: 15px;
+}
+
+.category {
+    font-size: 10px;
+    background: #EBF4FE;
+    border-radius: 8px;
+    padding: 5px 15px;
+}
+
+.price {
+    color: cornflowerblue;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.info {
+    color: #758190;
+    font-size: 13px;
+}
+
+.rate {
+    color: #758190;
+    font-size: 12px;
+}
+
+.rate i {
+    color: cornflowerblue;
+}
+
+.arrow {
+    background: #EBF4FE;;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    line-height: 30px;
+}
+
+.arrow i {
+    color: cornflowerblue;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
